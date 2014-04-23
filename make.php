@@ -114,6 +114,8 @@ $phpcode =
 $export = '<?php
 /*
 # Script written by Phan Thanh Cong <ptcong90@gmail.com>
+# Website: http://ptcong.com
+#
 # Generated date: ' .date('M d, Y')
 . ($only_countries ? '
 #
